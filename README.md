@@ -21,3 +21,4 @@ CRSS (2018) (https://www.nhtsa.gov/crash-data-systems/crash-report-sampling-syst
 1. Evaluate factors contributing to an accident, and predict (binary) the injury severity of a person in that accident (CRSS)
 2. Evaluate factors contributing to fatality alone, and predict (multiclass) the fatal injury severity based on delay from time of crash to time of death (FARS)
  
+
