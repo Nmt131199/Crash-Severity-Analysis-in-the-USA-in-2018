@@ -33,12 +33,12 @@ CRSS (2018) (https://www.nhtsa.gov/crash-data-systems/crash-report-sampling-syst
 | Decision Tree |`criterion = 'entropy'; max_dept = 5`   | 0.73 |
 | Random Forest | default | 0.77 |
 | KNN | `k=30` | 0.76 |
-| Multinomial Gaussian Naive Bayes | --- | 0.7 |
+| Multinomial Gaussian Naive Bayes | default | 0.7 |
 
 1. For FARS (multiclass prediction with 6 outputs)
 
 
-| Models | Additional conditions | Accuracy | Accuracy (after Feature selection |
+| Models | Additional conditions | Accuracy | Accuracy (after Feature selection) |
 | --- | --- | --- | --- |
 | Decision Tree | default | 0.589 | 0.326 |
 | Random Forest | default | 0.77 | 0.429 |
